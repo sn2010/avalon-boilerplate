@@ -1,4 +1,4 @@
-## 安装
+## 安装222
 `git clone https://github.com/mahavira/avalon-boilerplate.git`
 
 1. cd avalon-boilerplate
